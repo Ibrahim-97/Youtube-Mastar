@@ -1,7 +1,7 @@
 # 🛡️ YouTube Master V.2.0.1
 **The Ultimate Media Management & High-Speed Downloader for Windows**
 
-![YouTube Master Logo](Assets/StoreLogo.png) 
+![YouTube Master Logo]([Assets/StoreLogo.png](https://raw.githubusercontent.com/Ibrahim-97/Youtube-Mastar/refs/heads/main/logo.png)) 
 
 ## 🚀 Overview
 **YouTube Master** is a high-performance desktop application built for users who demand precision, speed, and quality. Whether you're a content creator or a media enthusiast, this tool provides a seamless experience for managing, extracting, and processing high-resolution media.
