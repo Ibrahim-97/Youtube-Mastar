@@ -21,7 +21,7 @@
 ## 🛠️ Installation
 
 ### 1. Download the Installer
-Get the latest version from our [Releases Page](https://github.com/Ibrahim-97/Youtube-Mastar/releases/download/V2.0.0.1/Setup.exe).
+Get the latest version from our [Releases Page](https://github.com/Ibrahim-97/Utube-PlayList-Downloader/releases/download/V2.0.1/Setup.exe).
 
 ### 2. Run the Setup
 - Run `YouTubeMaster_Setup.exe`.
